@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Oxa Defrizal Khasay! 👋
 
-<!--
-**Oxa-DK/Oxa-DK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m currently a student focusing on **Data Analysis** and **Frontend Web Development**. I dive into data and create interactive, user-friendly web experiences.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Frontend Development**: HTML, CSS, Tailwind CSS, React
+- **Data Analysis**: Pandas, NumPy, scikit-learn
+- **Tools & Technologies**: Git, VS Code, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 What I’m Currently Working On
+- Building projects **data analysis** and **web development**.
+- Expanding my skills in **JavaScript frameworks** and **machine learning** techniques.
+
+### 🧠 What I’m Currently Learning
+- Deepening my knowledge in **machine learning algorithms**.
+- Learning advanced **React** and focus on exporting to frontend developers and frameworks.
+- Exploring **data visualization** libraries like **Matplotlib** and **Seaborn**.
+
+### 🤔 Looking for Help With
+- Collaborating on projects that involve **data analysis**, **machine learning**, or **frontend development**.
+- Guidance on **best practices** in large-scale **React applications**.
+
+### 💬 Ask Me About
+- **Frontend development** tips and tricks.
+- **Data cleaning** and **data preprocessing** techniques.
+
+### 📫 How to Reach Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oxadefrizalkhasay/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zalaxaa/)
